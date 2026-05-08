@@ -1,0 +1,35 @@
+{
+  "subHeaderButtonColor" : "#CECED7FF",
+  "selectedServerRowColor" : "#360000FF",
+  "disclosureSubHeaderTextColor" : "#FFFFFF99",
+  "buttonImageType" : "light",
+  "settingsControlsTintColor" : "#CF0000FF",
+  "backgroundGradientColorIntensity" : 1,
+  "elipseColors" : [
+    "#EC0000FF"
+  ],
+  "disclosureProgressViewColor" : "#003649FF",
+  "subscriptionInfoBackgroundColor" : "#2A0000FF",
+  "additionalOptionsButtonColor" : "#FFFFFF99",
+  "serverRowTitleTextColor" : "#FFFFFFFF",
+  "subscriptionTrafficBackgroundColor" : "#DB0000FF",
+  "buttonTimerColor" : "#000000FF",
+  "subscriptionInfoTextColor" : "#FFFFFFFF",
+  "serverRowChevronColor" : "#5F5D83FF",
+  "topBarButtonsColor" : "#FFFFFFFF",
+  "backgroundImageType" : "light",
+  "powerIconColor" : "#FF0A0AFF",
+  "serverRowSubTitleTextColor" : "#7E7F83FF",
+  "subsHeaderColor" : "#2A0000FF",
+  "buttonColor" : "#FFFFFFFF",
+  "backgroundColors" : [
+    "#1C0000FF",
+    "#AF0000FF"
+  ],
+  "backgroundGradientRotationAngle" : 0,
+  "disclosureHeaderTextColor" : "#FFFFFFFF",
+  "supportIconColor" : "#FF0000FF",
+  "serverRowBackgroundColor" : "#2A0000FF",
+  "buttonTextColor" : "#000000FF",
+  "profileWebPageIconColor" : "#EC0000FF"
+}
